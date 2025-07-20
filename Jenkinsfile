@@ -7,7 +7,7 @@ pipeline
         {
             steps
             {
-                git 'https://github.com/IntelliqDevops/maven.git'
+                git 'https://github.com/sribhavani127/Maven.git'
             }
         }
         stage('Build_origin')
